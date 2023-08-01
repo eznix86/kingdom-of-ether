@@ -4,6 +4,8 @@ This smart contract creates a virtual kingdom on the EVM blockchain, where indiv
 
 Inspiration: https://www.kingoftheether.com/thrones/kingoftheether/index.html
 
+## TODO:
+- Build UI to interact with smart contract
 ## Features
 
 1. **Become the Monarch**: Anyone can become the monarch by calling the `becomeMonarch` function and paying the current claim price. The person who pays the highest price becomes the new monarch.
